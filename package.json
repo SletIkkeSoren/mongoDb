@@ -1,0 +1,24 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "mongo",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.1",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SletIkkeSoren/mongoDb.git"
+  },
+  "author": "Søren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SletIkkeSoren/mongoDb/issues"
+  },
+  "homepage": "https://github.com/SletIkkeSoren/mongoDb#readme"
+}
